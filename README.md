@@ -142,11 +142,11 @@ fn main() {
 
 <p align="center">
   <!-- <<< EDIT >>> replace the LinkedIn URL below -->
-  <a href="https://www.linkedin.com/in/your-handle">
+  <a href="https://www.linkedin.com/in/dil-d">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <!-- <<< EDIT >>> replace the website URL below -->
-  <a href="https://your-website.dev">
+  <a href="[https://your-website.dev](https://komaedalovemail.tumblr.com/hollow?fbclid=PAAaZS_bp0BUMrV5Ebu9OShD2Fbzcqavk1NbrM1PVK0ltOuZJMAm0cKUitd1s#)">
     <img src="https://img.shields.io/badge/Website-0E1116?style=for-the-badge&logo=googlechrome&logoColor=F2A33C" alt="Website">
   </a>
   <a href="https://github.com/scartheseller72-max">
