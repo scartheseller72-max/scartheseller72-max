@@ -5,7 +5,7 @@
 <!-- EDIT PLACEHOLDERS marked <<< EDIT >>> : 1) display name  2) LinkedIn URL  3) website URL -->
 
 <h1 align="center">
-  Hey, I'm <code>&lt;your-name&gt;</code> <!-- <<< EDIT >>> your display name --> 👋
+  Hey, I'm <code>&lt;Evonz Denmo&gt;</code> <!-- <<< EDIT >>> your display name --> 👋
 </h1>
 
 <h3 align="center"><code>@scartheseller72-max</code></h3>
