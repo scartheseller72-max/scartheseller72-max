@@ -1,14 +1,8 @@
-<!--
-  ┌─────────────────────────────────────────────────────────────────────┐
-  │  GitHub PROFILE README  ·  scartheseller72-max                        │
-  │  EDIT THE PLACEHOLDERS marked  <<< EDIT >>>  below:                    │
-  │   1. Your display name        2. LinkedIn URL        3. Website URL    │
-  └─────────────────────────────────────────────────────────────────────┘
--->
-
 <p align="center">
   <img src="assets/banner.png" alt="profile banner" width="100%">
 </p>
+
+<!-- EDIT PLACEHOLDERS marked <<< EDIT >>> : 1) display name  2) LinkedIn URL  3) website URL -->
 
 <h1 align="center">
   Hey, I'm <code>&lt;your-name&gt;</code> <!-- <<< EDIT >>> your display name --> 👋
