@@ -1,24 +1,22 @@
-<!-- EDIT PLACEHOLDERS marked <<< EDIT >>> : 1) display name  2) LinkedIn URL  3) website URL -->
-
 <p align="center">
   <img src="assets/banner.png" alt="profile banner" width="100%">
 </p>
 
-<h1 align="center">Hey, I'm <code>&lt;your-name&gt;</code> <!-- <<< EDIT >>> display name --> 👋</h1>
+<h1 align="center">Hey, I'm Evonz Denmo 👋</h1>
 
 <p align="center">
   <a href="https://github.com/scartheseller72-max">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=F2A33C&center=true&vCenter=true&width=780&lines=Security+Researcher+%7C+Reverse+Engineer;CTF+Player+%26+Exploit+Theorist;Rust+%C2%B7+Kotlin+%C2%B7+Python+%C2%B7+Solidity+%C2%B7+C;Crash+Triage+%C2%B7+Fuzzing+%C2%B7+Patch+Development;I+build+tools+that+bring+data+back+from+the+dead" alt="roles">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=F2A33C&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+Backend+Architect;Crafting+clean%2C+scalable%2C+efficient+code;Bug+Exorcist+-+exorcising+legacy+bugs+daily;Open-source+contributor+%26+lifelong+learner" alt="roles">
   </a>
 </p>
 
-<p align="center"><sub><code>@scartheseller72-max</code> &nbsp;·&nbsp; metadata outlives data</sub></p>
+<p align="center"><sub><code>@scartheseller72-max</code> &nbsp;·&nbsp; Full-Stack Developer &amp; Backend Architect &nbsp;·&nbsp; 🇬🇧 UK</sub></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-handle"><!-- <<< EDIT >>> LinkedIn -->
+  <a href="https://www.linkedin.com/in/dil-d">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://your-website.dev"><!-- <<< EDIT >>> website -->
-    <img src="https://img.shields.io/badge/Website-0E1116?style=for-the-badge&logo=googlechrome&logoColor=F2A33C"></a>
+  <a href="https://komaedalovemail.tumblr.com/hollow">
+    <img src="https://img.shields.io/badge/Tumblr-36465D?style=for-the-badge&logo=tumblr&logoColor=white"></a>
   <a href="https://github.com/scartheseller72-max">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=scartheseller72-max&label=Views&color=F2A33C&style=for-the-badge">
@@ -30,28 +28,38 @@
 
 ```rust
 fn main() {
-    let me = Researcher {
-        focus:      ["vuln research", "reverse engineering", "root-cause analysis"],
-        does:       ["bug hunting", "crash triage", "fuzzing harnesses", "patch dev"],
-        plays:      "CTFs — pwn · rev · web",
-        builds:     "low-level forensic & recovery tooling",
-        philosophy: "metadata outlives data",
+    let me = Engineer {
+        role:       ["Full-Stack Developer", "Backend Architect"],
+        focus:      "clean, scalable, efficient code for real business needs",
+        journey:    "continuous learning + open-source contributions",
+        alter_ego:  "Bug Exorcist 🐛  —  \"Adiuro te, serpens antique...\"",
+        open_to:    ["collabs", "networking", "cutting-edge projects"],
     };
 }
 ```
 
+<p align="center">Hi there! 👋 &nbsp;I build impactful tech solutions &amp; exorcise legacy bugs.</p>
+
 <table align="center">
   <tr>
-    <td>🔭&nbsp; Authorized <b>vuln research, RE &amp; root-cause analysis</b> for patch dev</td>
-    <td>🧪&nbsp; Crash triage <code>ASAN·GDB·WinDbg</code> + fuzzing <code>libFuzzer·AFL++·syzkaller</code></td>
+    <td>💻 <b>Tech</b></td>
+    <td>Full-Stack Development &nbsp;|&nbsp; Robust Backend Architecture</td>
   </tr>
   <tr>
-    <td>🚩&nbsp; CTF player — <b>pwn · rev · web</b></td>
-    <td>🧰&nbsp; I ship tools: forensic recovery, BSOD diagnostics, systems utilities</td>
+    <td>🏆 <b>Focus</b></td>
+    <td>Crafting clean, scalable, and efficient code for business needs</td>
   </tr>
   <tr>
-    <td>🌱&nbsp; Going deep on <b>NVMe / NTFS internals &amp; filesystem forensics</b></td>
-    <td>⚡&nbsp; Clawed source back from a <b>TRIM-wiped SSD</b> via <code>$MFT</code> residue</td>
+    <td>🌱 <b>Journey</b></td>
+    <td>Dedicated to ongoing learning &amp; open-source contributions</td>
+  </tr>
+  <tr>
+    <td>🐛 <b>Bug Exorcist</b></td>
+    <td><i>"Adiuro te, serpens antique, per iudicem vivorum et mortuorum..."</i> ✝️</td>
+  </tr>
+  <tr>
+    <td>👥 <b>Connect</b></td>
+    <td>Always open to collabs, networking &amp; cutting-edge projects 📧</td>
   </tr>
 </table>
 
@@ -63,7 +71,7 @@ fn main() {
   <img src="https://skillicons.dev/icons?i=rust,kotlin,python,solidity,c,cpp,go,bash,linux,docker,git,githubactions&theme=dark&perline=12" alt="tech stack">
 </p>
 
-<p align="center"><sub>REVERSE ENGINEERING &amp; ANALYSIS</sub></p>
+<p align="center"><sub>SYSTEMS · DEBUGGING · SECURITY</sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Ghidra-FF6A00?style=flat-square&logoColor=white">
   <img src="https://img.shields.io/badge/IDA_Pro-2C2C2C?style=flat-square">
@@ -73,8 +81,6 @@ fn main() {
   <img src="https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white">
   <img src="https://img.shields.io/badge/CodeQL-2C2C2C?style=flat-square&logo=github&logoColor=F2A33C">
   <img src="https://img.shields.io/badge/Semgrep-1B2A4A?style=flat-square&logo=semgrep&logoColor=white">
-  <img src="https://img.shields.io/badge/AFL++-3C3C3C?style=flat-square">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white">
 </p>
 
 ---
@@ -131,10 +137,10 @@ fn main() {
 <h2 align="center">⟡ &nbsp;Currently</h2>
 
 <table align="center">
-  <tr><td>🔬 <b>Working on</b></td><td><code>$MFT</code> / <code>$UsnJrnl</code> forensic recovery &amp; fragmented-source reassembly</td></tr>
-  <tr><td>📚 <b>Learning</b></td><td>SSD FTL internals · LDPC/ECC · controller-bypass theory</td></tr>
-  <tr><td>🤝 <b>Open to</b></td><td>collaborating on open-source security &amp; recovery tooling</td></tr>
-  <tr><td>💬 <b>Ask me about</b></td><td>reverse engineering · crash triage · fuzzing · file carving</td></tr>
+  <tr><td>🔭 <b>Working on</b></td><td>open-source dev tooling — forensic recovery &amp; system diagnostics</td></tr>
+  <tr><td>📚 <b>Learning</b></td><td>scalable backend architecture · clean code patterns · low-level internals</td></tr>
+  <tr><td>🤝 <b>Open to</b></td><td>collabs, networking &amp; cutting-edge projects</td></tr>
+  <tr><td>💬 <b>Ask me about</b></td><td>full-stack · backend architecture · debugging &amp; bug exorcism</td></tr>
 </table>
 
 ---
@@ -153,4 +159,4 @@ fn main() {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2A33C,100:0D1117&height=120&section=footer" width="100%" alt="footer">
 
-<p align="center"><sub>⟡ &nbsp;metadata outlives data &nbsp;⟡</sub></p>
+<p align="center"><sub>⟡ &nbsp;<i>"Adiuro te, serpens antique…"</i> — the Bug Exorcist &nbsp;⟡</sub></p>
