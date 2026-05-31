@@ -162,12 +162,17 @@ fn main() {
 
 ---
 
-<!-- Contribution snake — appears after the "Generate Snake" Action runs once -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scartheseller72-max/scartheseller72-max/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/scartheseller72-max/scartheseller72-max/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/scartheseller72-max/scartheseller72-max/output/github-snake.svg">
-</picture>
+<!--
+  CONTRIBUTION SNAKE (optional): the activity graph above is your live
+  contribution visual. To also enable the snake animation:
+    1. Enable GitHub Actions on this account (Settings > Actions).
+    2. Actions tab > "Generate Snake" > Run workflow (creates the 'output' branch).
+    3. Uncomment the block below.
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scartheseller72-max/scartheseller72-max/output/github-snake-dark.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/scartheseller72-max/scartheseller72-max/output/github-snake.svg">
+  </picture>
+-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2A33C,100:0E1116&height=120&section=footer" width="100%" alt="footer">
 

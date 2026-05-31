@@ -8,9 +8,8 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
+# NOTE: 'push' trigger intentionally omitted so routine commits don't spam runs.
+# Run manually from the Actions tab (Run workflow) once Actions is enabled.
 
 permissions:
   contents: write
