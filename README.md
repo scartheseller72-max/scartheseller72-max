@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="profile banner" width="100%">
 </p>
 
-<h1 align="center">Hey, I'm Evonz Denmo 👋</h1>
+<h1 align="center">Hey, I'm Lucifer 👋</h1>
 
 <p align="center">
   <a href="https://github.com/scartheseller72-max">
@@ -13,7 +13,7 @@
 <p align="center"><sub><code>@scartheseller72-max</code> &nbsp;·&nbsp; Full-Stack Developer &amp; Backend Architect &nbsp;·&nbsp; 🇬🇧 UK</sub></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dil-d">
+  <a href="https://www.linkedin.com/in/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://komaedalovemail.tumblr.com/hollow">
     <img src="https://img.shields.io/badge/Tumblr-36465D?style=for-the-badge&logo=tumblr&logoColor=white"></a>
