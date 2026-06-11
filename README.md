@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/scartheseller72-max">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=F2A33C&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+Backend+Architect;Crafting+clean%2C+scalable%2C+efficient+code;Bug+Exorcist+-+exorcising+legacy+bugs+daily;Open-source+contributor+%26+lifelong+learner" alt="roles">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=F2A33C&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+Backend+Architect;Crafting+clean%2C+scalable%2C+efficient+code;Bug+Exorcist+-+exorcising+legacy+bugs+daily;Systems+internals+%C2%B7+reverse+engineering+%C2%B7+security;Open-source+contributor+%26+lifelong+learner" alt="roles">
   </a>
 </p>
 
@@ -14,12 +14,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://komaedalovemail.tumblr.com/hollow">
-    <img src="https://img.shields.io/badge/Tumblr-36465D?style=for-the-badge&logo=tumblr&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/Tumblr-36465D?style=for-the-badge&logo=tumblr&logoColor=white" alt="Tumblr"></a>
   <a href="https://github.com/scartheseller72-max">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=scartheseller72-max&label=Views&color=F2A33C&style=for-the-badge">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <img src="https://komarev.com/ghpvc/?username=scartheseller72-max&label=Views&color=F2A33C&style=for-the-badge" alt="profile views">
 </p>
 
 ---
@@ -31,6 +31,7 @@ fn main() {
     let me = Engineer {
         role:       ["Full-Stack Developer", "Backend Architect"],
         focus:      "clean, scalable, efficient code for real business needs",
+        loves:      ["systems internals", "reverse engineering", "forensic recovery"],
         journey:    "continuous learning + open-source contributions",
         alter_ego:  "Bug Exorcist 🐛  —  \"Adiuro te, serpens antique...\"",
         open_to:    ["collabs", "networking", "cutting-edge projects"],
@@ -67,20 +68,26 @@ fn main() {
 
 <h2 align="center">⟡ &nbsp;Arsenal</h2>
 
+<p align="center"><sub>LANGUAGES</sub></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,kotlin,python,solidity,c,cpp,go,bash,linux,docker,git,githubactions&theme=dark&perline=12" alt="tech stack">
+  <img src="https://skillicons.dev/icons?i=rust,kotlin,python,solidity,c,cpp,go,bash&theme=dark&perline=8" alt="languages">
+</p>
+
+<p align="center"><sub>PLATFORMS · DEVOPS · DATA</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,githubactions,cmake,nginx,postgres,sqlite&theme=dark&perline=8" alt="platforms and devops">
 </p>
 
 <p align="center"><sub>SYSTEMS · DEBUGGING · SECURITY</sub></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Ghidra-FF6A00?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/IDA_Pro-2C2C2C?style=flat-square">
-  <img src="https://img.shields.io/badge/radare2-1A1A1A?style=flat-square">
-  <img src="https://img.shields.io/badge/GDB-A42E2B?style=flat-square&logo=gnu&logoColor=white">
-  <img src="https://img.shields.io/badge/WinDbg-0078D6?style=flat-square&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white">
-  <img src="https://img.shields.io/badge/CodeQL-2C2C2C?style=flat-square&logo=github&logoColor=F2A33C">
-  <img src="https://img.shields.io/badge/Semgrep-1B2A4A?style=flat-square&logo=semgrep&logoColor=white">
+  <img src="https://img.shields.io/badge/Ghidra-FF6A00?style=flat-square&logoColor=white" alt="Ghidra">
+  <img src="https://img.shields.io/badge/IDA_Pro-2C2C2C?style=flat-square" alt="IDA Pro">
+  <img src="https://img.shields.io/badge/radare2-1A1A1A?style=flat-square" alt="radare2">
+  <img src="https://img.shields.io/badge/GDB-A42E2B?style=flat-square&logo=gnu&logoColor=white" alt="GDB">
+  <img src="https://img.shields.io/badge/WinDbg-0078D6?style=flat-square&logo=windows&logoColor=white" alt="WinDbg">
+  <img src="https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white" alt="QEMU">
+  <img src="https://img.shields.io/badge/CodeQL-2C2C2C?style=flat-square&logo=github&logoColor=F2A33C" alt="CodeQL">
+  <img src="https://img.shields.io/badge/Semgrep-1B2A4A?style=flat-square&logo=semgrep&logoColor=white" alt="Semgrep">
 </p>
 
 ---
@@ -104,6 +111,14 @@ fn main() {
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=scartheseller72-max&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies">
+</p>
+
+<p align="center">
+  <img src="github-metrics.svg" alt="detailed metrics" width="90%">
+</p>
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="98%">
 </p>
 
 <p align="center">
@@ -145,17 +160,10 @@ fn main() {
 
 ---
 
-<!--
-  CONTRIBUTION SNAKE (optional): the activity graph above is your live visual.
-  To also enable the snake:
-    1. Enable GitHub Actions (Settings > Actions).
-    2. Actions tab > "Generate Snake" > Run workflow (creates the 'output' branch).
-    3. Uncomment the block below.
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scartheseller72-max/scartheseller72-max/output/github-snake-dark.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/scartheseller72-max/scartheseller72-max/output/github-snake.svg">
-  </picture>
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scartheseller72-max/scartheseller72-max/output/github-snake-dark.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/scartheseller72-max/scartheseller72-max/output/github-snake.svg" width="100%">
+</picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2A33C,100:0D1117&height=120&section=footer" width="100%" alt="footer">
 
