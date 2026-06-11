@@ -113,13 +113,20 @@ fn main() {
   <img src="https://github-profile-trophy.vercel.app/?username=scartheseller72-max&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies">
 </p>
 
-<p align="center">
-  <img src="github-metrics.svg" alt="detailed metrics" width="90%">
-</p>
-
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="98%">
-</p>
+<!--
+  METRICS DASHBOARD + 3D CONTRIBUTION GRAPH (ready to enable):
+  GitHub Actions is currently blocked on this account ("account locked due to
+  a billing issue" — fix under Settings > Billing & plans). Once resolved:
+    1. Actions tab > run "Generate Metrics", "Generate 3D Contribution Graph"
+       and "Generate Snake" manually (they also run on cron afterwards).
+    2. Uncomment this block and the snake <picture> block near the footer.
+  <p align="center">
+    <img src="github-metrics.svg" alt="detailed metrics" width="90%">
+  </p>
+  <p align="center">
+    <img src="profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="98%">
+  </p>
+-->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=scartheseller72-max&bg_color=0D1117&color=F2A33C&line=F2A33C&point=5B8DB8&area=true&area_color=F2A33C&hide_border=true" alt="activity graph" width="98%">
@@ -160,10 +167,14 @@ fn main() {
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scartheseller72-max/scartheseller72-max/output/github-snake-dark.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/scartheseller72-max/scartheseller72-max/output/github-snake.svg" width="100%">
-</picture>
+<!--
+  CONTRIBUTION SNAKE (ready to enable): uncomment after the "Generate Snake"
+  workflow has run successfully (see the note in the Analytics section).
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scartheseller72-max/scartheseller72-max/output/github-snake-dark.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/scartheseller72-max/scartheseller72-max/output/github-snake.svg" width="100%">
+  </picture>
+-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2A33C,100:0D1117&height=120&section=footer" width="100%" alt="footer">
 
